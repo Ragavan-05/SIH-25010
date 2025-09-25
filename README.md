@@ -56,6 +56,7 @@ For pest and disease detection, the app will support image uploads analyzed by l
 The implementation will follow a modular, phased approach. Initial phases will focus on building the core advisory engine and multilingual interface, followed by integration of weather and soil APIs, voice support, and image-based pest detection. Later stages will introduce market price tracking, feedback analytics, and offline capabilities for remote areas. A flowchart-based design will guide the user journey—from input (voice/text/image) to advisory output—ensuring intuitive navigation. The app will be tested with pilot groups across different regions to validate usability, accuracy, and cultural relevance. Cloud infrastructure from AWS or Google Cloud will ensure scalability, data security, and performance. This solution will empower farmers with scientific, localized insights, reduce dependency on informal advice, and promote sustainable agricultural practices, ultimately improving productivity, income, and environmental outcomes.
 
 
+<img width="1080" height="1080" alt="Role of AI in Agricu" src="https://github.com/user-attachments/assets/74c95877-127e-4479-9e3c-a8052e594020" />
 
 ![AI Precision Farming](https://github.com/user-attachments/assets/048004a2-4f15-4b42-b826-87450aff9050)
 
